@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
+![lastimage1](https://github.com/JavithMohamad/Figma/assets/121215951/e2181f57-521b-4498-bad2-f86573c4f0d3)
 
 
 ## RESULT:
